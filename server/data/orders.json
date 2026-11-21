@@ -1,0 +1,35 @@
+[
+  {
+    "id": "c10281a6-967b-472b-8c5d-d50bc4dec9a8",
+    "nomorNota": "AA-20261120-001",
+    "customerName": "bima",
+    "items": [
+      {
+        "produkId": "p11",
+        "nama": "Sambal Hijau",
+        "harga": 5000,
+        "jumlah": 1,
+        "subtotal": 5000
+      },
+      {
+        "produkId": "p12",
+        "nama": "Gulai Otak Kambing",
+        "harga": 20000,
+        "jumlah": 1,
+        "subtotal": 20000
+      },
+      {
+        "produkId": "p10",
+        "nama": "Nasi Putih",
+        "harga": 4000,
+        "jumlah": 1,
+        "subtotal": 4000
+      }
+    ],
+    "total": 29000,
+    "bayar": null,
+    "kembalian": null,
+    "status": "menunggu_pembayaran",
+    "tanggal": "2026-11-20T19:09:52.408Z"
+  }
+]
